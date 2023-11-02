@@ -1,0 +1,10 @@
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\AWSLambda4.deps.json
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\AWSLambda4.runtimeconfig.json
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\AWSLambda4.pdb
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\AWSSDK.Core.dll
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+E:\AWS\AWSLambda4\AWSLambda4\bin\Release\net6.0\publish\AWSLambda4.dll
