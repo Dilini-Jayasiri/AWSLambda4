@@ -19,14 +19,29 @@ namespace AWSLambda4
         [DynamoDBProperty("rate")]
         public string? Rate { get; set; }
 
-        [DynamoDBProperty("description")]
-        public string Description { get; set; }
+        [DynamoDBProperty("minutes")]
+        public string Minutes { get; set; }
 
-        [DynamoDBProperty("directorName")]
-        public string? DirectorName {  get; set; }
+        [DynamoDBProperty("synopsis")]
+        public string? Synopsis {  get; set; }
 
-        [DynamoDBProperty("duration")]
-        public string? Duration { get; set; }
+        [DynamoDBProperty("posterUrl")]
+        public string? PosterURL { get; set; }
+
+        [DynamoDBProperty("tagline")]
+        public string? Tagline { get; set; }
+
+        [DynamoDBProperty("votes")]
+        public string? Votes { get; set; }
+
+        [DynamoDBProperty("releaseDate")]
+        public string? ReleaseDate { get; set; }
+
+        [DynamoDBProperty("genre")]
+        public string? Genre { get; set; }
+
+        [DynamoDBProperty("backdropURL")] 
+        public string? BackdropURL { get; set; }
 
     }
 }
